@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom
+/**/*.pth
+custom_datasets/
+custom_models/
+data/
+
+/data/
+/MVTec_AD/
+/models/alexnet/hub/
+/models/
+/weights/
+/dummy_dataset/
+/pretrained/
+/mtd_train_filenames.txt
+/FrEIA_github/
+/neptuneparams.py
